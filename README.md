@@ -1,2 +1,2 @@
-# P-ldora-Jupyter-Medias-de-Dispersi-n-
+# Píldora-Jupyter-Medias-de-Dispersión
 Medidas de dispersión: Rango, Varianza y Desviación Estándar 
